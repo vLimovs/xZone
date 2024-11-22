@@ -255,6 +255,10 @@ body {
     gap: 10px;
 }
 
+.service {
+    margin-top: 60px;
+}
+
 .guarantee {
     margin-top: 120px;
     gap: 57px;
